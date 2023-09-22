@@ -1,6 +1,8 @@
 # pixels_to_svg
 
-same kind https://codepen.io/SirDaev/pen/WQXXbP
+same kind, but without index: https://codepen.io/SirDaev/pen/WQXXbP
+
+article about: https://css-tricks.com/almanac/properties/i/image-rendering/
 
 *pixels to svg*
 
